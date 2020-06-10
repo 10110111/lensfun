@@ -131,7 +131,11 @@
         <mount>Canon EF</mount>
         <aperture min="3.5" max="16"/>
         <type>fisheye</type>
-        <cropfactor>1</cropfactor>
+        <cropfactor>1.613</cropfactor>
+        <calibration>
+            <!-- Taken with Canon 1100D -->
+            <distortion model="ptlens" focal="8" a="0.018" b="-0.064" c="0.028"/>
+        </calibration>
     </lens>
 
     <lens>
