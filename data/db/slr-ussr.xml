@@ -134,7 +134,7 @@
         <cropfactor>1.613</cropfactor>
         <calibration>
             <!-- Taken with Canon 1100D -->
-            <distortion model="ptlens" focal="8" a="0.018" b="-0.064" c="0.028"/>
+            <distortion model="ptlens" focal="8" a="0.012" b="-0.007" c="-0.047"/>
         </calibration>
     </lens>
 
